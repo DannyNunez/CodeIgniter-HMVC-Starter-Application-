@@ -1,0 +1,6 @@
+application/logs
+application/logs/*
+assets/cache
+assets/cache/*
+application/config/development/database.php
+application/config/production/database.php

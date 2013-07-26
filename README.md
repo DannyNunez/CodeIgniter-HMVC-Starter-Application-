@@ -1,4 +1,4 @@
-CodeIgniter-HMVC-Starter-Application-
-=====================================
+skeleton-app
+============
 
-CodeIgniter HMVC Starter Application
+A skeleton application based on Codeigniter
