@@ -20,13 +20,13 @@ This is [**wiredesignz's**](https://bitbucket.org/wiredesignz/codeigniter-modula
 
 I have also included Ben Edmunds ION_AUTH authentication library and a few minor adjustments to make it work with the HMVC extension. Ben has produced great documentation that you can find [**here**](http://benedmunds.com/ion_auth/ "ION_AUTH authentication library") to learn exactly how it works. 
 
-This is [**Ben Edmund's**](https://github.com/benedmunds/CodeIgniter-Ion-Auth "ION_AUTH authentication library")Simple and Lightweight Authentication System hosted on github.com.
+[**Ben Edmund's**](https://github.com/benedmunds/CodeIgniter-Ion-Auth "ION_AUTH authentication library") Simple and Lightweight Authentication System hosted on github.com.
 
 **Simple Assets Library**
 
-A great Assests library created by Boris Strahija. This library adds support for combining, minifying and obfuscating your JavaScript and CSS assets. Additionally there's a [**LessPHP**](http://leafo.net/lessphp/ "LessPHP Compiler") compiler, a [**PHPSass**](https://github.com/richthegeek/phpsass "PHPSass Compiler")compiler and a [**CoffeeScript**](https://github.com/alxlit/coffeescript-php "CoffeeScript Compiler") compiler.
+A great Assets library created by Boris Strahija. This library adds support for combining, minifying and obfuscating your JavaScript and CSS assets. Additionally there's a [**LessPHP**](http://leafo.net/lessphp/ "LessPHP Compiler") compiler, a [**PHPSass**](https://github.com/richthegeek/phpsass "PHPSass Compiler") compiler and a [**CoffeeScript**](https://github.com/alxlit/coffeescript-php "CoffeeScript Compiler") compiler.
 
-**CodeIgniter base CRUD model**
+**CodeIgniter Base Model**
 
 A CodeIgniter Base Model that is an extended CI_Model class to use in your CodeIgniter applications. It provides a full CRUD base to make developing database interactions easier and quicker, as well as an event-based observer system, in-model data validation, intelligent table name guessing and soft delete.
 This was developed by [**Jamie Rumbelow**](https://github.com/jamierumbelow "Jamie Rumbelow"). Jamie is well known in the CodeIgniter community and has written three books on CodeIgniter. I recommend anyone looking to truly understand how to develop and unit test web application using CodeIgniter invest in these books. They can be found [**here**](https://efendibooks.com/books "Jamie Rumbelow CodeIgniter Books").
