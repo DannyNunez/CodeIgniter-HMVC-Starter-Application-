@@ -4,3 +4,6 @@ assets/cache
 assets/cache/*
 application/config/development/database.php
 application/config/production/database.php
+/nbproject/private/
+nbproject/*
+nbproject
